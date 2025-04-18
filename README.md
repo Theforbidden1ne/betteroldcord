@@ -1,6 +1,5 @@
 # OldCord
 
-<link rel="stylesheet" href="style.css">
 
 A theme for Discord that brings the **2020** (NOT pre-2025 refresh) UI back without removing features
 
