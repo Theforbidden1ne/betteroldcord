@@ -2,20 +2,19 @@
   * @name OldCord
   * @version 1.0
   * @author @milbit
-  * @source https://github.com/milbits/oldcord
-  * @description Restores discord's 2020 UI
-*/
-@import url("https://milbits.github.io/oldcord/src/main.css");
-
-
-/*
-Addons
-remove a "/*" below to enable one
+  * @source https://github.com/Theforbidden1ne/betteroldcord/
+  * @description Restores discord's 2020 UI (But better)
 */
 
-/*@import url("https://milbits.github.io/oldcord/src/components/oldEmojis.css");*/
-/*@import url("https://milbits.github.io/oldcord/src/components/oldContext.css");*/
-/*@import url("https://milbits.github.io/oldcord/src/components/showEffects.css");*/
+/* Imports important shit */
+
+@import url("https://theforbidden1ne.github.io/betteroldcord/src/main.css");
+
+/* Imports addins, use "/*" to comment these out (turn them off) */
+
+@import url("https://theforbidden1ne.github.io/betteroldcord/src/components/oldEmojis.css");*/
+@import url("https://theforbidden1ne.github.io/betteroldcord/src/components/oldContext.css");*/
+@import url("https://theforbidden1ne.github.io/betteroldcord/src/components/showEffects.css");*/
 
 /* Options */
 
