@@ -21,7 +21,7 @@ html:is([lang="en-GB"],[lang="en-us"]) .addStatusPrompt_ab8609 {
 	margin-right: 10px;
 
 	&::after {
-		content: "Set a custom status";
+		content: "Set a custy-wusty statusu~! (●´ω｀●)";
 		text-indent: 0;
 		display: flex;
 		line-height: initial;
@@ -213,10 +213,7 @@ html:is([lang="en-GB"],[lang="en-us"]) .addStatusPrompt_ab8609 {
 	font-weight: 400;
 }
 
-/* KILL upsells KILL upsells KILL */
-.upsellContainer__5997d {
-	display: none;
-}
+
 
 /* Switch account icon (WIP) */
 .menuItemInner_af7fb7.buttonInner_fb7f94.contents__201d5
@@ -353,14 +350,14 @@ html:is([lang="en-GB"],[lang="en-us"]) .addStatusPrompt_ab8609 {
 }
 
 /* reverts "watch stream" button in vcs */
-/*:is(.activityStreamPreview__2ef49) .lookFilled__201d5.colorPrimary__201d5 {
+:is(.activityStreamPreview__2ef49) .lookFilled__201d5.colorPrimary__201d5 {
 	background: none;
 	border: solid 1px #72767d;
 	transition: color 0.17s ease, background-color 0.17s ease, border-color 0.17s ease;
 	&:hover {
 		border: solid 1px #fff;
 	}
-}*/
+}
 /*progress bar (like on spotify statuses)*/
 .card__39ec2 .bar__8e51c {
 	background: rgba(79, 84, 92, 0.16);
@@ -636,9 +633,9 @@ html.theme-dark .badgeContainer__635ed path {
 .clickable__75742:hover .overlay__75742::before,
 .clickable__75742:focus-within .overlay__75742::before {
 	html[lang="de"] & {
-		content: "PROFIL ANSEHEN";
+		content: "Pwofiwwu ansy-wehen~! (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)";
 	}
-	content: "VIEW PROFILE";
+	content: "View pwofiwwuu~! (｡♥‿♥｡)";
 	opacity: 1;
 	font-size: 10px;
 	text-align: center;
